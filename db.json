@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Snake Plant",
+      "image": "https://www.thespruce.com/thmb/HtNVl5_9nAJpPYiN2a8579nDgZk=/1545x1545/smart/filters:no_upscale()/snake-plant-care-overview-1902772-04-d3990a1d0e1d4202a824e929abb12fc1-349b52d646f04f31962707a703b94298.jpeg",
+      "price": "22.25",
+      "id": 8
     }
   ]
 }
